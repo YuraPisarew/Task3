@@ -1,0 +1,21 @@
+#container {
+    display: flex;
+    gap: 10px;
+}
+
+.rectangle {
+    width: 50px;
+    height: 50px;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: move;
+}
+
+#field {
+    width: 200px;
+    height: 200px;
+    background-color: #c0c0c0;
+    margin-top: 20px;
+}
